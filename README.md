@@ -52,15 +52,17 @@
 
  
  Tabular Column:
- <img width="1600" height="1098" alt="Image" src="https://github.com/user-attachments/assets/75f07692-0c46-41b6-b894-36be5bceb1b6" />
+ <img width="1600" height="1079" alt="image" src="https://github.com/user-attachments/assets/f87a55cc-5714-4071-8aef-aba3fa3bd92a" />
  
  
 Calculation:
-<img width="785" height="1371" alt="image" src="https://github.com/user-attachments/assets/42ed2827-da13-4ca4-82fa-157b7b7a7e32" />
+<img width="916" height="1550" alt="image" src="https://github.com/user-attachments/assets/48b0eea0-2476-4f38-8e2f-80255bc977ee" />
+
 
 
 Marks Split Up:
-<img width="1578" height="1083" alt="image" src="https://github.com/user-attachments/assets/99e60cf3-9402-4cb0-acd7-5f02603af699" />
+<img width="1579" height="1244" alt="image" src="https://github.com/user-attachments/assets/d6715292-af32-4353-9d7d-f003a29b4729" />
+
 
 
 **RESULT:**
